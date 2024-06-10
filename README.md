@@ -1,5 +1,5 @@
 # Multi Product Integration Demo
-# TST STUFF
+# TST STUFF.
 ## Overview 
 
 This repository is intended to help members of WWTFO quickly create reproducible demo environments which showcase:
